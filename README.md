@@ -13,6 +13,4 @@
 <img height="30" title="Node JS" src="https://nodejs.org/static/images/logo.svg">
 <img height="30" title="Mongo DB" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress">
 
-![Mnatsakanyan1996's github stats](https://github-readme-stats.vercel.app/api?username=Mnatsakanyan1996&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnatsakanyan1996&layout=compact)
