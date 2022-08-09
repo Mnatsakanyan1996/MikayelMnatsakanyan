@@ -13,4 +13,4 @@
 <img height="30" title="Node JS" src="https://nodejs.org/static/images/logo.svg">
 <img height="30" title="Mongo DB" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnatsakanyan1996&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnatsakanyan1996)](https://github.com/anuraghazra/github-readme-stats)
