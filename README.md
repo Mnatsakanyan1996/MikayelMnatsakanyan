@@ -8,9 +8,9 @@
 
 **Languages and Tools:**  
 <img height="30" title="JavaScript" src="./js.png">
-<img height="30" title="React JS" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1659952891~hmac=4d2fc4c9fcfc709834c6c8e66e485cc4">
-<img height="30" title="Angular" src="https://github.com/angular/angular/raw/main/aio/src/assets/images/logos/angular/angular.png">
-<img height="30" title="Node JS" src="https://nodejs.org/static/images/logo.svg">
-<img height="30" title="Mongo DB" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress">
+<img height="30" title="React JS" src="./react.png">
+<img height="30" title="Angular" src="./angular.png">
+<img height="30" title="Node JS" src="./node-js.png">
+<img height="30" title="Mongo DB" src="./mongodb.png">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnatsakanyan1996)](https://github.com/anuraghazra/github-readme-stats)
