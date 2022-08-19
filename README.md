@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=Mnatsakanyan1996)
 
 **Languages and Tools:**  
-<img height="30" title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+<img height="30" title="JavaScript" src="./js.png">
 <img height="30" title="React JS" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1659952891~hmac=4d2fc4c9fcfc709834c6c8e66e485cc4">
 <img height="30" title="Angular" src="https://github.com/angular/angular/raw/main/aio/src/assets/images/logos/angular/angular.png">
 <img height="30" title="Node JS" src="https://nodejs.org/static/images/logo.svg">
