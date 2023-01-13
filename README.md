@@ -10,5 +10,3 @@
 <img height="30" title="Angular" src="./angular.png">
 <img height="30" title="Node JS" src="./node-js.png">
 <img height="30" title="Mongo DB" src="./mongodb.png">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnatsakanyan1996)](https://github.com/anuraghazra/github-readme-stats)
